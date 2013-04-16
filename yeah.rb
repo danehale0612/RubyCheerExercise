@@ -6,4 +6,4 @@ name = gets.chomp
 # Give me a t!
 # Give me a h!
 
-name.each_char {|answer| puts "Give me a " + answer <<"!"}
+name.each_char {|answer| puts "Give me a " + answer + "!"}
